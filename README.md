@@ -44,4 +44,4 @@ Every record change is previewed through `describe_operation` and waits for your
 - [Warm Developer Documentation](https://warm.io/developers)
 - [Privacy Policy](https://warm.io/privacy/)
 - [Terms of Service](https://warm.io/terms/)
-- Support: [hello@warm.io](mailto:hello@warm.io)
+- Support: [support@warm.io](mailto:support@warm.io) ([warm.io/contact](https://warm.io/contact/))
