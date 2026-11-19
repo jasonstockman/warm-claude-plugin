@@ -1,0 +1,23 @@
+{
+  "name": "warm",
+  "displayName": "Warm",
+  "version": "1.0.0",
+  "description": "Connect Claude to your Warm financial data to review balances, spending, upcoming bills, findings, and card benefits, and make changes you approve.",
+  "author": {
+    "name": "Warm",
+    "url": "https://warm.io"
+  },
+  "homepage": "https://warm.io/financial-mcp-server/",
+  "repository": "https://github.com/jasonstockman/warm-claude-plugin",
+  "license": "MIT",
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://warm.io/privacy/",
+  "keywords": [
+    "warm",
+    "personal-finance",
+    "budgets",
+    "transactions",
+    "net-worth",
+    "mcp"
+  ]
+}

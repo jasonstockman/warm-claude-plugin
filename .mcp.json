@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "warm": {
+      "type": "http",
+      "url": "https://app.warm.io/mcp"
+    }
+  }
+}
